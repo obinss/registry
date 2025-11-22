@@ -156,7 +156,7 @@ ui <- dashboardPage(
     tags$head(
       tags$style(HTML("
         .box { margin-bottom: 10px; }
-        .value-box { min-height: 100px; }
+        .value-box { min-height: 800px; }
         .main-header .logo { font-weight: bold; }
       "))
     ),
